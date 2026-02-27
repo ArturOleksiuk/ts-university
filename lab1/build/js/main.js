@@ -1,5 +1,4 @@
 "use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 function triangle(value1, type1, value2, type2) {
     const types = ["leg", "hypotenuse", "adjacent angle", "opposite angle", "angle"];
     const MIN_VALUE = 1e-4;
