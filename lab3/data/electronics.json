@@ -1,0 +1,33 @@
+{
+  "categoryName": "Електроніка",
+  "items": [
+    {
+      "id": 1,
+      "name": "Навушники",
+      "shortname": "headphones",
+      "description": "Бездротові навушники з шумопоглинанням",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "name": "Смартфон",
+      "shortname": "phone",
+      "description": "Екран 6.5 дюймів, 128 ГБ пам'яті",
+      "price": 8500
+    },
+    {
+      "id": 3,
+      "name": "Планшет",
+      "shortname": "tablet",
+      "description": "10 дюймів, ідеально для навчання",
+      "price": 6200
+    },
+    {
+      "id": 4,
+      "name": "Клавіатура",
+      "shortname": "keyboard",
+      "description": "Механічна, підсвічування RGB",
+      "price": 950
+    }
+  ]
+}

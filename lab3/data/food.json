@@ -1,0 +1,33 @@
+{
+  "categoryName": "Продукти",
+  "items": [
+    {
+      "id": 1,
+      "name": "Яблука",
+      "shortname": "apples",
+      "description": "Свіжі червоні яблука, 1 кг.",
+      "price": 55
+    },
+    {
+      "id": 2,
+      "name": "Молоко",
+      "shortname": "milk",
+      "description": "Молоко 2.5%, 1 літр.",
+      "price": 42
+    },
+    {
+      "id": 3,
+      "name": "Хліб",
+      "shortname": "bread",
+      "description": "Свіжий пшеничний хліб.",
+      "price": 30
+    },
+    {
+      "id": 4,
+      "name": "Сир",
+      "shortname": "cheese",
+      "description": "Твердий сир, 300 г.",
+      "price": 110
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Електроніка",
+    "shortname": "electronics",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "name": "Одяг",
+    "shortname": "clothing",
+    "notes": "Lorem ipsum dolor sit amet"
+  },
+  {
+    "id": 3,
+    "name": "Продукти",
+    "shortname": "food",
+    "notes": ""
+  }
+]
